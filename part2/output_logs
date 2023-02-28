@@ -1,0 +1,12 @@
+19:46:54,642 root INFO loading data into dataframe from a file
+19:46:54,645 root INFO dataframe created
+19:46:54,645 root INFO creating connection to SQL SERVER
+19:47:02,859 root INFO connection  created to SQL SERVER
+19:47:02,859 root INFO truncating target table
+19:47:02,860 root INFO truncated target table
+19:47:02,861 root INFO %s row inserted
+19:47:02,861 root INFO %s row inserted
+19:47:02,862 root INFO %s row inserted
+19:47:02,862 root INFO %s row inserted
+19:47:02,862 root INFO %s row inserted
+19:47:02,862 root INFO table loaded successfully
